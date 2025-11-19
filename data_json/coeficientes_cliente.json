@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "MAYORISTA",
+    "cuotas_texto": "MAYORISTA",
+    "cuotas": 1,
+    "comision": 0.0001,
+    "coef_kira_dosificador": 0.7,
+    "coef_resto_productos": 0.0,
+    "coef_adicional": 0
+  },
+  {
+    "nombre": "PROFESIONAL",
+    "cuotas_texto": "PROFESIONAL",
+    "cuotas": 1,
+    "comision": 0.0001,
+    "coef_kira_dosificador": 0.8,
+    "coef_resto_productos": 0.1452,
+    "coef_adicional": 0
+  }
+]

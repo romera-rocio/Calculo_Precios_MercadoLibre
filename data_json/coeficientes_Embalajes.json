@@ -1,0 +1,138 @@
+[
+  {
+    "Embalaje": "Chico SC",
+    "Precio": 412.01
+  },
+  {
+    "Embalaje": "Chico CC",
+    "Precio": 686.68
+  },
+  {
+    "Embalaje": "SIFÓN",
+    "Precio": 686.68
+  },
+  {
+    "Embalaje": "ESPECIERO",
+    "Precio": 686.68
+  },
+  {
+    "Embalaje": "GRIFERIA-CC",
+    "Precio": 686.68
+  },
+  {
+    "Embalaje": "GRIFERIA-SC",
+    "Precio": 1030.02
+  },
+  {
+    "Embalaje": "SIN EMBALAJE",
+    "Precio": 0.0
+  },
+  {
+    "Embalaje": "BACHA CHICA-CC",
+    "Precio": 939.2
+  },
+  {
+    "Embalaje": "BACHA MEDIANA-CC",
+    "Precio": 1408.8
+  },
+  {
+    "Embalaje": "BACHA GRANDE-CC",
+    "Precio": 2258.54
+  },
+  {
+    "Embalaje": "BACHA CHICA-SC",
+    "Precio": 1408.8
+  },
+  {
+    "Embalaje": "BACHA MEDIANA-SC",
+    "Precio": 2258.54
+  },
+  {
+    "Embalaje": "BACHA GRANDE-SC",
+    "Precio": 3387.81
+  },
+  {
+    "Embalaje": "EMBALAJE CAJA TV",
+    "Precio": 3387.81
+  },
+  {
+    "Embalaje": "EMBALAJE CAJA 66-54",
+    "Precio": 2258.54
+  },
+  {
+    "Embalaje": "JUEGO ACCESORIOS-SC",
+    "Precio": 686.68
+  },
+  {
+    "Embalaje": "JUEGO ACCESORIOS-CC",
+    "Precio": 1030.02
+  },
+  {
+    "Embalaje": "MEDIANO SC",
+    "Precio": 1408.8
+  },
+  {
+    "Embalaje": "MEDIANA CC",
+    "Precio": 939.2
+  },
+  {
+    "Embalaje": "GRANDE SC",
+    "Precio": 3387.81
+  },
+  {
+    "Embalaje": "GRANDE CC",
+    "Precio": 2258.54
+  },
+  {
+    "Embalaje": "CHICO-NG",
+    "Precio": 5000.0
+  },
+  {
+    "Embalaje": "MEDIANO- NG",
+    "Precio": 6000.0
+  },
+  {
+    "Embalaje": "GRANDE- NG",
+    "Precio": 15000.0
+  },
+  {
+    "Embalaje": "EXTRA GRANDE- NG",
+    "Precio": 20000.0
+  },
+  {
+    "Embalaje": "BACHA- NG",
+    "Precio": 10000.0
+  },
+  {
+    "Embalaje": "SIN ENTREGA- NO GRAVADA",
+    "Precio": 0.0
+  },
+  {
+    "Embalaje": "CHICO- GR",
+    "Precio": 6050.0
+  },
+  {
+    "Embalaje": "MEDIANO- GR",
+    "Precio": 7260.0
+  },
+  {
+    "Embalaje": "GRANDE- GR",
+    "Precio": 18150.0
+  },
+  {
+    "Embalaje": "EXTRA GRANDE- GR",
+    "Precio": 24200.0
+  },
+  {
+    "Embalaje": "BACHA- GR",
+    "Precio": 12100.0
+  },
+  {
+    "Embalaje": "SIN ENTREGA GRAVADA",
+    "Precio": 0.0
+  },
+  {
+    "Embalaje": "MEDIANO- NG",
+    "Precio": 6000.0
+  }
+]

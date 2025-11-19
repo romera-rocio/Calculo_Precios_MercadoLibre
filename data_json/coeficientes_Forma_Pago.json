@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "TRANSFERENCIA",
+    "cuotas_texto": "TRANSFERENCIA",
+    "cuotas": 1,
+    "comision": 0.0001,
+    "coef_kira_dosificador": 0.89,
+    "coef_resto_productos": 0.2287,
+    "coef_adicional": 0
+  },
+  {
+    "nombre": "3_PAGOS",
+    "cuotas_texto": 3,
+    "cuotas": 3,
+    "comision": 0.1972,
+    "coef_kira_dosificador": 1.0,
+    "coef_resto_productos": 0.1452,
+    "coef_adicional": 0
+  },
+  {
+    "nombre": "6_PAGOS",
+    "cuotas_texto": 6,
+    "cuotas": 6,
+    "comision": 0.2807,
+    "coef_kira_dosificador": 1121212121.0,
+    "coef_resto_productos": 0.2287,
+    "coef_adicional": 0
+  },
+  {
+    "nombre": "9_PAGOS",
+    "cuotas_texto": 9,
+    "cuotas": 9,
+    "comision": 0.363,
+    "coef_kira_dosificador": 1.28,
+    "coef_resto_productos": 0.311,
+    "coef_adicional": 0
+  },
+  {
+    "nombre": "12_PAGOS",
+    "cuotas_texto": 12,
+    "cuotas": 12,
+    "comision": 0.4392,
+    "coef_kira_dosificador": 1.48,
+    "coef_resto_productos": 0.3872,
+    "coef_adicional": 0
+  }
+]

@@ -1,0 +1,67 @@
+{
+    "producto": {
+        "MARCA": "JOHNSON",
+        "Codigo": "ZZ 52 B",
+        "Descripción": "ZZ 52 B",
+        "Precio": 25058.1804,
+        "PVP": 55425.0
+    },
+    "parametros": {
+        "forma_pago": "TRANSFERENCIA (1 cuotas)",
+        "coef_forma_pago": {
+            "nombre": "TRANSFERENCIA",
+            "cuotas_texto": "TRANSFERENCIA",
+            "cuotas": 1,
+            "comision": 0.0001,
+            "coef_kira_dosificador": 0.89,
+            "coef_resto_productos": 0.2287,
+            "coef_adicional": 0
+        },
+        "tipo_cliente": "MAYORISTA",
+        "coef_cliente": {
+            "nombre": "MAYORISTA",
+            "cuotas_texto": "MAYORISTA",
+            "cuotas": 1,
+            "comision": 0.0001,
+            "coef_kira_dosificador": 0.7,
+            "coef_resto_productos": 0.0,
+            "coef_adicional": 0
+        },
+        "embalaje": "CHICO-NG",
+        "coef_embalaje": {
+            "Embalaje": "CHICO-NG",
+            "Precio": 5000.0
+        },
+        "descuento": 0.0,
+        "margen": null,
+        "parametros_globales": [
+            {
+                "Parámetro / nombre": "INGRESOS_BRUTOS",
+                "Valor / cuotas_texto": 0.0393,
+                "Cuotas": "",
+                "Comisión": "",
+                "Coef. Kira Dosificador": "",
+                "Coef. Resto Productos": "",
+                "Coef. Adicional": ""
+            },
+            {
+                "Parámetro / nombre": "COEF_PARA_DEDUCIR_IVA",
+                "Valor / cuotas_texto": 0.173553719,
+                "Cuotas": "",
+                "Comisión": "",
+                "Coef. Kira Dosificador": "",
+                "Coef. Resto Productos": "",
+                "Coef. Adicional": ""
+            },
+            {
+                "Parámetro / nombre": "COEF_PARA_DESCONTAR_IVA",
+                "Valor / cuotas_texto": 0.83,
+                "Cuotas": "",
+                "Comisión": "",
+                "Coef. Kira Dosificador": "",
+                "Coef. Resto Productos": "",
+                "Coef. Adicional": ""
+            }
+        ]
+    }
+}

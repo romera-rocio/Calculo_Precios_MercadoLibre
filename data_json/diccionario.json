@@ -1,0 +1,69 @@
+{
+  "lista_precios": {
+    "df_columns": [
+      "MARCA",
+      "Codigo",
+      "Descripción",
+      "Precio",
+      "PVP"
+    ],
+    "json_path": "data_json\\lista_precios.json"
+  },
+  "coeficientes": {
+    "Parámetros_Globales": {
+      "df_columns": [
+        "Parámetro / nombre",
+        "Valor / cuotas_texto",
+        "Cuotas",
+        "Comisión",
+        "Coef. Kira Dosificador",
+        "Coef. Resto Productos",
+        "Coef. Adicional"
+      ],
+      "json_path": "data_json\\coeficientes_Parámetros_Globales.json"
+    },
+    "Forma_Pago": {
+      "df_columns": [
+        "nombre",
+        "cuotas_texto",
+        "cuotas",
+        "comision",
+        "coef_kira_dosificador",
+        "coef_resto_productos",
+        "coef_adicional"
+      ],
+      "json_path": "data_json\\coeficientes_Forma_Pago.json"
+    },
+    "comisiones": {
+      "df_columns": [
+        "nombre",
+        "cuotas_texto",
+        "cuotas",
+        "comision",
+        "coef_kira_dosificador",
+        "coef_resto_productos",
+        "coef_adicional"
+      ],
+      "json_path": "data_json\\coeficientes_comisiones.json"
+    },
+    "cliente": {
+      "df_columns": [
+        "nombre",
+        "cuotas_texto",
+        "cuotas",
+        "comision",
+        "coef_kira_dosificador",
+        "coef_resto_productos",
+        "coef_adicional"
+      ],
+      "json_path": "data_json\\coeficientes_cliente.json"
+    },
+    "Embalajes": {
+      "df_columns": [
+        "Embalaje",
+        "Precio"
+      ],
+      "json_path": "data_json\\coeficientes_Embalajes.json"
+    }
+  }
+}

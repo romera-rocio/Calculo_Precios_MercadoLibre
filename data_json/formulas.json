@@ -1,0 +1,168 @@
+{
+  "Prod_Descripcion": {
+    "descripcion": "Nombre comercial del producto",
+    "variables": ["Descripcion"],
+    "formula_py": "Descripcion",
+    "formula_sql": "Descripcion"
+  },
+
+  "Prod_SKU": {
+    "descripcion": "Código del SKU",
+    "variables": ["Codigo"],
+    "formula_py": "Codigo",
+    "formula_sql": "Codigo"
+  },
+
+ "Prod_CostoSKU": {
+    "descripcion": "Costo real del SKU según lista de precios",
+    "variables": ["SKU", "LP_Descripcion", "LP_Precio"],
+    "formula_py": "(LP_Precio[LP_Descripcion.str.contains(SKU, case=False, na=False)].iloc[0] if LP_Descripcion.str.contains(SKU, case=False, na=False).any() else None)",
+    "formula_sql": "(SELECT Precio FROM lista_precios WHERE Descripcion ILIKE '%' || SKU || '%' LIMIT 1)"
+  },
+  "Prod_PVPProveedor": {
+    "descripcion": "PVP proveedor sugerido",
+    "variables": ["SKU", "LP_Descripcion", "LP_PVP"],
+    "formula_py": "(LP_PVP[LP_Descripcion.str.contains(SKU, case=False, na=False)].iloc[0] if LP_Descripcion.str.contains(SKU, case=False, na=False).any() else None)",
+    "formula_sql": "(SELECT PVP FROM lista_precios WHERE Descripcion ILIKE '%' || SKU || '%' LIMIT 1)"
+  },
+
+  "Tipo_Costo": {
+    "descripcion": "Etiqueta del tipo de costo: manual, gravada, sin gravada",
+    "variables": ["Costo_Tipo"],
+    "formula_py": "Costo_Tipo",
+    "formula_sql": "Costo_Tipo"
+  },
+
+  "PVP_Base": {
+    "descripcion": "Precio base antes del redondeo",
+    "variables": ["Prod_CostoSKU", "coef_cliente"],
+    "formula_py": "Prod_CostoSKU * coef_cliente",
+    "formula_sql": "Prod_CostoSKU * coef_cliente"
+  },
+
+  "PVP_Redondeado": {
+    "descripcion": "PVP redondeado a múltiplos de 10",
+    "variables": ["PVP_Base"],
+    "formula_py": "round(PVP_Base / 10) * 10",
+    "formula_sql": "ROUND(PVP_Base / 10.0) * 10"
+  },
+
+  "Cantidad_Pagos": {
+    "descripcion": "Cantidad de cuotas elegidas por el usuario",
+    "variables": ["cuotas"],
+    "formula_py": "cuotas",
+    "formula_sql": "cuotas"
+  },
+
+  "Precio_Venta_R": {
+    "descripcion": "Precio con redondeo y ajuste comercial",
+    "variables": ["PVP_Redondeado"],
+    "formula_py": "PVP_Redondeado",
+    "formula_sql": "PVP_Redondeado"
+  },
+
+  "Precio_Venta_Final": {
+    "descripcion": "Precio final después de coeficientes y comisiones",
+    "variables": ["PVP_Redondeado", "coef_forma_pago"],
+    "formula_py": "PVP_Redondeado * coef_forma_pago",
+    "formula_sql": "PVP_Redondeado * coef_forma_pago"
+  },
+
+  "Descuento_Porcentaje": {
+    "descripcion": "% descuento aplicado sobre el PVP",
+    "variables": ["descuento_pct"],
+    "formula_py": "descuento_pct",
+    "formula_sql": "descuento_pct"
+  },
+
+  "Valor_Cuota": {
+    "descripcion": "Valor de cada cuota",
+    "variables": ["Precio_Venta_Final", "Cantidad_Pagos"],
+    "formula_py": "Precio_Venta_Final / Cantidad_Pagos if Cantidad_Pagos != 0 else 0",
+    "formula_sql": "Precio_Venta_Final / NULLIF(Cantidad_Pagos, 0)"
+  },
+
+  "Entrega_Gravada": {
+    "descripcion": "Costo de envío gravado",
+    "variables": ["EntregaGravada"],
+    "formula_py": "EntregaGravada",
+    "formula_sql": "EntregaGravada"
+  },
+
+  "Entrega_NoGravada": {
+    "descripcion": "Costo de envío no gravado",
+    "variables": ["EntregaNoGravada"],
+    "formula_py": "EntregaNoGravada",
+    "formula_sql": "EntregaNoGravada"
+  },
+
+  "Costo_Total": {
+    "descripcion": "Costo total incluyendo embalaje y entregas",
+    "variables": ["Prod_CostoSKU", "Entrega_Gravada", "Entrega_NoGravada"],
+    "formula_py": "Prod_CostoSKU + Entrega_Gravada + Entrega_NoGravada",
+    "formula_sql": "Prod_CostoSKU + Entrega_Gravada + Entrega_NoGravada"
+  },
+
+  "Comision_Pago": {
+    "descripcion": "Comisión por forma de pago",
+    "variables": ["PVP_Redondeado", "coef_comision"],
+    "formula_py": "PVP_Redondeado * coef_comision",
+    "formula_sql": "PVP_Redondeado * coef_comision"
+  },
+
+  "IVA_Pagar": {
+    "descripcion": "IVA calculado sobre la operación",
+    "variables": ["Precio_Venta_Final", "coef_iva"],
+    "formula_py": "Precio_Venta_Final * coef_iva",
+    "formula_sql": "Precio_Venta_Final * coef_iva"
+  },
+
+  "IIBB": {
+    "descripcion": "Ingresos brutos",
+    "variables": ["Precio_Venta_Final", "coef_iibb"],
+    "formula_py": "Precio_Venta_Final * coef_iibb",
+    "formula_sql": "Precio_Venta_Final * coef_iibb"
+  },
+
+  "A_Cobrar_Con_Impuestos": {
+    "descripcion": "Monto total a cobrar incluyendo impuestos",
+    "variables": ["Precio_Venta_Final", "IVA_Pagar", "IIBB"],
+    "formula_py": "Precio_Venta_Final + IVA_Pagar + IIBB",
+    "formula_sql": "Precio_Venta_Final + IVA_Pagar + IIBB"
+  },
+
+  "A_Cobrar_Sin_Impuestos": {
+    "descripcion": "Monto neto sin impuestos",
+    "variables": ["Precio_Venta_Final", "IVA_Pagar", "IIBB"],
+    "formula_py": "Precio_Venta_Final - IVA_Pagar - IIBB",
+    "formula_sql": "Precio_Venta_Final - IVA_Pagar - IIBB"
+  },
+
+  "Rentabilidad_Pesos": {
+    "descripcion": "PV – costo total",
+    "variables": ["Precio_Venta_Final", "Costo_Total"],
+    "formula_py": "Precio_Venta_Final - Costo_Total",
+    "formula_sql": "Precio_Venta_Final - Costo_Total"
+  },
+
+  "Rentabilidad_A_B": {
+    "descripcion": "(PV – costo) / PV",
+    "variables": ["Precio_Venta_Final", "Costo_Total"],
+    "formula_py": "(Precio_Venta_Final - Costo_Total) / Precio_Venta_Final",
+    "formula_sql": "(Precio_Venta_Final - Costo_Total) / NULLIF(Precio_Venta_Final, 0)"
+  },
+
+  "Rentabilidad_B_A": {
+    "descripcion": "(PV – costo) / costo",
+    "variables": ["Precio_Venta_Final", "Costo_Total"],
+    "formula_py": "(Precio_Venta_Final - Costo_Total) / Costo_Total",
+    "formula_sql": "(Precio_Venta_Final - Costo_Total) / NULLIF(Costo_Total, 0)"
+  },
+
+  "Comision_Vendedor": {
+    "descripcion": "Comisión del vendedor basada en rentabilidad",
+    "variables": ["Rentabilidad_Pesos", "coef_comision_vendedor"],
+    "formula_py": "Rentabilidad_Pesos * coef_comision_vendedor",
+    "formula_sql": "Rentabilidad_Pesos * coef_comision_vendedor"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "COMISION  PAGO",
+    "cuotas_texto": 0,
+    "cuotas": 1,
+    "comision": "",
+    "coef_kira_dosificador": 0.0001,
+    "coef_resto_productos": "",
+    "coef_adicional": 0.311
+  },
+  {
+    "nombre": "COMISION 1 PAGO",
+    "cuotas_texto": 1,
+    "cuotas": 1,
+    "comision": "",
+    "coef_kira_dosificador": 0.05203,
+    "coef_resto_productos": 0.95,
+    "coef_adicional": ""
+  }
+]

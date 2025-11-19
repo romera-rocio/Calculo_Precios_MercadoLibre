@@ -1,0 +1,7639 @@
+[
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ZZ 52 B",
+    "Descripción": "ZZ 52 B",
+    "Precio": 25058.1804,
+    "PVP": 55425.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ZZ 52 /18",
+    "Descripción": "ZZ 52 /18",
+    "Precio": 35478.4584,
+    "PVP": 72664.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ZZ 52",
+    "Descripción": "ZZ 52",
+    "Precio": 29910.474000000002,
+    "PVP": 64078.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ZN52/18 A*",
+    "Descripción": "ZN52/18 A*",
+    "Precio": 88923.4566,
+    "PVP": 180619.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ZN52/18 A CR",
+    "Descripción": "ZN52/18 A CR",
+    "Precio": 91886.37150000001,
+    "PVP": 188743.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Zara D84 A*",
+    "Descripción": "Zara D84 A*",
+    "Precio": 223868.3073,
+    "PVP": 461718.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Z 52/18 CR",
+    "Descripción": "Z 52/18 CR",
+    "Precio": 62780.487,
+    "PVP": 127968.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Z 52/18",
+    "Descripción": "Z 52/18",
+    "Precio": 56883.915,
+    "PVP": 116699.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Z 52 CR",
+    "Descripción": "Z 52 CR",
+    "Precio": 55817.1306,
+    "PVP": 116834.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Z 52",
+    "Descripción": "Z 52",
+    "Precio": 49537.9566,
+    "PVP": 102660.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "X 28",
+    "Descripción": "X 28",
+    "Precio": 176684.47830000002,
+    "PVP": 364831.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "U7640",
+    "Descripción": "",
+    "Precio": 54220.221,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "U6440",
+    "Descripción": "",
+    "Precio": 48044.502,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "U5438",
+    "Descripción": "",
+    "Precio": 29668.716,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "U3840",
+    "Descripción": "",
+    "Precio": 26334.197999999997,
+    "PVP": ""
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "TT 34",
+    "Descripción": "TT 34",
+    "Precio": 23127.1656,
+    "PVP": 52581.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "TF5006",
+    "Descripción": "Kit Termofusora 800 W + Boquillas 20/35/32/40/50/63 - Eco",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "TABLA",
+    "Descripción": "",
+    "Precio": 20070.27,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T7843",
+    "Descripción": "",
+    "Precio": 124839.693,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T7749",
+    "Descripción": "",
+    "Precio": 144426.447,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T7238",
+    "Descripción": "",
+    "Precio": 116927.019,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T6845",
+    "Descripción": "",
+    "Precio": 119194.317,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T5642",
+    "Descripción": "",
+    "Precio": 83525.21100000001,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T5238",
+    "Descripción": "",
+    "Precio": 72578.583,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "T49",
+    "Descripción": "",
+    "Precio": 66046.761,
+    "PVP": ""
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "T 34/18",
+    "Descripción": "T 34/18",
+    "Precio": 45296.700899999996,
+    "PVP": 94052.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "T 34",
+    "Descripción": "T 34",
+    "Precio": 37445.4828,
+    "PVP": 79045.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUMS900A",
+    "Descripción": "Bomba Sumergible Agua Sucia Acero Inoxidable Sum S 900 W A - 14000 L/H",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUMS750",
+    "Descripción": "Bomba Sumergible Agua Sucia Sum S 750 W - 13000 L/H",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUMS400",
+    "Descripción": "Bomba Sumergible Agua Sucia Sum S 400 W - 8000 L/H",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUML550",
+    "Descripción": "Bomba Sumergible Agua Limpia Sum L 550 W - 11000 L/H",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUML400",
+    "Descripción": "Bomba Sumergible Agua Limpia Sum L 400 W - 7000 L/H",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUM PP",
+    "Descripción": "Bomba Sumergible p/Pozo Profundo 1 HP SUM PP",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SUM PP",
+    "Descripción": "Bomba Sumergible p/Pozo Profundo 11/2 HP SUM PP",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "SP ( SOPAPA CON DESBORDE)",
+    "Descripción": "",
+    "Precio": 11429.055,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "SO-T02",
+    "Descripción": "Silla Tulip oficina color blanco",
+    "Precio": 86515.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "SOPAPA CESTILLO 9002",
+    "Descripción": "",
+    "Precio": 7289.7660000000005,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "SOPAPA 50MM",
+    "Descripción": "",
+    "Precio": 871.1999999999999,
+    "PVP": ""
+  },
+  {
+    "MARCA": "KIRA",
+    "Codigo": "SM6042",
+    "Descripción": "BACHA KIRA SM6042 + DOSIFICADOR",
+    "Precio": 48360.00000000001,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SL400NE",
+    "Descripción": "Descarga Con Sifon Para Lavatorio Negro",
+    "Precio": 41652.898873344006,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SKF396",
+    "Descripción": "Control Automatico De Presion Skf",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "SIFÓN - T",
+    "Descripción": "",
+    "Precio": 10483.803000000002,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "SC434NE",
+    "Descripción": "Sopapa Click Negro",
+    "Precio": 15643.462348800002,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "SAD-114CC",
+    "Descripción": "SOPAPA CLICK CLACK CON DESBORDE",
+    "Precio": 9800.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "SA-114CC",
+    "Descripción": "SOPAPA CLICK CLACK SIN DESBORDE",
+    "Precio": 9800.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "S380I",
+    "Descripción": "Salamandra Bosca Spirit Gris Inoxidable 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "S105",
+    "Descripción": "Bacha Sobre Mesada S105 Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "S1 ( SOPAPA SIMPLE) ",
+    "Descripción": "",
+    "Precio": 9601.713,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "S009",
+    "Descripción": "Bacha Sobre Mesada S009 Piazza Lavatorio Pileta Baño",
+    "Precio": 44414.77137039361,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RTDCC-15X15",
+    "Descripción": "Rejilla tapa click clack para desagüe 15 cm × 15 cm",
+    "Precio": 7709.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RTDCC-10X10",
+    "Descripción": "Rejilla tapa click clack para desagüe 10 cm × 10 cm",
+    "Precio": 5538.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RTD 20 X 20",
+    "Descripción": "Rejilla y tapa para desagüe 20 cm × 20 cm",
+    "Precio": 9880.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "RR 63",
+    "Descripción": "RR 63",
+    "Precio": 57963.0777,
+    "PVP": 121446.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "RR 37",
+    "Descripción": "RR 37",
+    "Precio": 56625.096000000005,
+    "PVP": 118888.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RD-8X8",
+    "Descripción": "Rejilla para desagüe 8 cm × 8 cm",
+    "Precio": 3692.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RD-10X10",
+    "Descripción": "Rejilla para desagüe 10 cm × 10 cm",
+    "Precio": 3692.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RD 20 X 20",
+    "Descripción": "Rejilla para desagüe 20 cm × 20 cm",
+    "Precio": 10387.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "RD 15 X 15",
+    "Descripción": "Rejilla para desagüe 15 cm × 15 cm",
+    "Precio": 4875.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RAIL-500",
+    "Descripción": "Elemento de Radiador Rail 500 x Elemento",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RA8001",
+    "Descripción": "Receptaculo acrilico 800x800x110",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RA7015",
+    "Descripción": "Plato de Ducha 1500x700x50",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RA7012.1",
+    "Descripción": "Desagüe para plato de ducha Ø90mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RA7012",
+    "Descripción": "Plato de Ducha 1200x700x50",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "RA7001",
+    "Descripción": "Receptaculo acrilico 700x700x110",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "R434",
+    "Descripción": "Sopapa Click CROMO",
+    "Precio": 10441.390080000001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63/18F CR",
+    "Descripción": "R 63/18F CR",
+    "Precio": 122201.9535,
+    "PVP": 244267.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63/18F",
+    "Descripción": "R 63/18F",
+    "Precio": 116913.0435,
+    "PVP": 234113.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63/18 CR",
+    "Descripción": "R 63/18 CR",
+    "Precio": 116093.82510000002,
+    "PVP": 235864.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63/18",
+    "Descripción": "R 63/18",
+    "Precio": 104207.2812,
+    "PVP": 221934.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63 CR",
+    "Descripción": "R 63 CR",
+    "Precio": 93205.2231,
+    "PVP": 191481.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 63",
+    "Descripción": "R 63",
+    "Precio": 86302.6329,
+    "PVP": 175610.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 37/18 CR",
+    "Descripción": "R 37/18 CR",
+    "Precio": 101571.82860000001,
+    "PVP": 206500.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 37/18",
+    "Descripción": "R 37/18",
+    "Precio": 97275.4332,
+    "PVP": 196580.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 37 CR",
+    "Descripción": "R 37 CR",
+    "Precio": 90561.8934,
+    "PVP": 184316.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "R 37",
+    "Descripción": "R 37",
+    "Precio": 83460.12509999999,
+    "PVP": 167492.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Q 76 A",
+    "Descripción": "Quadra Q 76 A",
+    "Precio": 206055.9336,
+    "PVP": 406485.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Q 76",
+    "Descripción": "Quadra Q 76",
+    "Precio": 176854.3986,
+    "PVP": 367010.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Mini Q55 AD",
+    "Descripción": "Quadra Mini Q55 AD",
+    "Precio": 152098.92390000002,
+    "PVP": 303360.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Mini Q55 A",
+    "Descripción": "Quadra Mini Q55 A",
+    "Precio": 152098.92390000002,
+    "PVP": 303360.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Max Q71 AD",
+    "Descripción": "Quadra Max Q71 AD",
+    "Precio": 201446.7048,
+    "PVP": 374016.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Quadra Max Q71 A",
+    "Descripción": "Quadra Max Q71 A",
+    "Precio": 201446.7048,
+    "PVP": 374016.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "QB80",
+    "Descripción": "Bomba Periferica Qb 80 - 1 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "QB70",
+    "Descripción": "Bomba Periferica Qb 70 - 3/4 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "QB60",
+    "Descripción": "Bomba Periferica Qb 60 - 1/2 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 76 CR",
+    "Descripción": "Q 76 CR",
+    "Precio": 190513.29,
+    "PVP": 376540.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 40 CR",
+    "Descripción": "Q 40 CR",
+    "Precio": 90155.6601,
+    "PVP": 181180.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 40",
+    "Descripción": "Q 40",
+    "Precio": 81934.21830000001,
+    "PVP": 171735.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 37 CR",
+    "Descripción": "Q 37 CR",
+    "Precio": 89214.9093,
+    "PVP": 179936.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 37",
+    "Descripción": "Q 37",
+    "Precio": 80024.5842,
+    "PVP": 170487.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 085 AD",
+    "Descripción": "Q 085 AD",
+    "Precio": 253244.2638,
+    "PVP": 496672.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 085 A*",
+    "Descripción": "Q 085 A*",
+    "Precio": 253244.2638,
+    "PVP": 496672.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 084 AD",
+    "Descripción": "Q 084 AD",
+    "Precio": 264020.1366,
+    "PVP": 517268.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Q 084 A*",
+    "Descripción": "Q 084 A*",
+    "Precio": 264020.1366,
+    "PVP": 517268.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PZ2262",
+    "Descripción": "Barral rigido para duchas exteriores",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PRESTC600",
+    "Descripción": "Bomba Presurizadora Pres TC 600 W",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PRES500",
+    "Descripción": "Bomba Presurizadora Pres 500 W - 17 M - 90 L/Min",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PRES260",
+    "Descripción": "Bomba Presurizadora Pres 260 W - 13 M - 60 L/Min",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PRES100",
+    "Descripción": "Bomba Presurizadora Pres 100 W - 8,5 M - 30 L/Min",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "PILETA DE LAVADERO 421",
+    "Descripción": "",
+    "Precio": 85246.92,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "PILETA DE LAVADERO 420",
+    "Descripción": "",
+    "Precio": 94287.798,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD301",
+    "Descripción": "Panel Ducha Jets Hidromasajes Piazza 135 Cm Alumino Duchador ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD201",
+    "Descripción": "Panel Ducha Jets Hidromasajes Piazza 135 Cm Acero Duchador ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD1350",
+    "Descripción": "Panel de ducha c/hidro PVC 1350x147mm ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD003",
+    "Descripción": "Panel Ducha C Jets Direccionables Piazza 135 Cm Vidrio Azul",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD002",
+    "Descripción": "Panel Ducha C Jets Direccionables Piazza 135 Cm Vidrio Rojo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "PD001",
+    "Descripción": "Panel Ducha C Jets Direccionables Piazza 135 Cm Vidrio Negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "OV 440 L*",
+    "Descripción": "OV 440 L*",
+    "Precio": 44698.0413,
+    "PVP": 99387.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "OV 370 L*",
+    "Descripción": "OV 370 L*",
+    "Precio": 39679.2033,
+    "PVP": 89124.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "OV 330 L*",
+    "Descripción": "OV 330 L*",
+    "Precio": 31927.0116,
+    "PVP": 72770.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "OP500",
+    "Descripción": "Cocina A Leña Bosca Optima 500",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "ON 30 A*",
+    "Descripción": "ON 30 A*",
+    "Precio": 48878.5308,
+    "PVP": 109043.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "O37 AT",
+    "Descripción": "O37 AT",
+    "Precio": 60251.937900000004,
+    "PVP": 125820.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "O 37 A*",
+    "Descripción": "O 37 A*",
+    "Precio": 69255.4632,
+    "PVP": 149990.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "O 340 L*",
+    "Descripción": "O 340 L*",
+    "Precio": 44824.0749,
+    "PVP": 99143.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "O 300 L*",
+    "Descripción": "O 300 L*",
+    "Precio": 38445.8745,
+    "PVP": 86102.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "O 250 L*",
+    "Descripción": "O 250 L*",
+    "Precio": 30066.8907,
+    "PVP": 68965.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "NAHUEN",
+    "Descripción": "Horno Leña Nahuen Bosca",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MV101",
+    "Descripción": "Mampara Ducha Baño Piazza Fijo + Móvil Vidrio Templado 5 Mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MV001",
+    "Descripción": "Mampara Ducha Baño 150cm Piazza Vidrio Templado 5mm Rebatibl",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ME3006",
+    "Descripción": "MERIDA COCINA PARED",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ME3005",
+    "Descripción": "MERIDA COCINA MESADA",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MA350P",
+    "Descripción": "Mueble Baño Piso Vanitory Piazza 2 Puertas Bacha 3 Agujeros",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MA350C",
+    "Descripción": "Mueble Baño Colgar Vanitory Piazza 1 Puerta Bacha 3 Agujeros",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MA150P",
+    "Descripción": "Mueble Baño Piso Vanitory Piazza 2 Puertas Bacha 1 Agujero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "MA150C",
+    "Descripción": "Mueble Baño Colgar Vanitory Piazza 1 Puerta Bacha 1 Agujero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "M350",
+    "Descripción": "Salamandra Bosca Multibosca 350",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI85AD",
+    "Descripción": "Luxor SI85AD",
+    "Precio": 160745.72910000003,
+    "PVP": 319886.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI85A*",
+    "Descripción": "Luxor SI85A*",
+    "Precio": 160745.72910000003,
+    "PVP": 319886.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI85 STD",
+    "Descripción": "Luxor SI85 STD",
+    "Precio": 160745.72910000003,
+    "PVP": 319886.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI85 STA*",
+    "Descripción": "Luxor SI85 STA*",
+    "Precio": 160745.72910000003,
+    "PVP": 319886.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI71 STD",
+    "Descripción": "Luxor SI71 STD",
+    "Precio": 147481.818,
+    "PVP": 294536.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI71 STA*",
+    "Descripción": "Luxor SI71 STA*",
+    "Precio": 147481.818,
+    "PVP": 294536.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI71 AD",
+    "Descripción": "Luxor SI71 AD",
+    "Precio": 147481.818,
+    "PVP": 294536.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor SI71 A*",
+    "Descripción": "Luxor SI71 A*",
+    "Precio": 147481.818,
+    "PVP": 294536.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor Mini SI55 AD",
+    "Descripción": "Luxor Mini SI55 AD",
+    "Precio": 116393.1549,
+    "PVP": 233118.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Luxor Mini SI55 A*",
+    "Descripción": "Luxor Mini SI55 A*",
+    "Precio": 116393.1549,
+    "PVP": 233118.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "LN 50",
+    "Descripción": "LN 50",
+    "Precio": 90055.5084,
+    "PVP": 182782.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "L480",
+    "Descripción": "Salamandra Bosca Limit 480",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "L380",
+    "Descripción": "Salamandra Bosca Limit 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "L360",
+    "Descripción": "Salamandra Bosca Limit 360",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "L350",
+    "Descripción": "Salamandra Bosca Limit 350 ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "KC350",
+    "Descripción": "Kit De Instalación Chimenea Bosca",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "KANAH-500",
+    "Descripción": "Radiador Kanah 500 x Elemento",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "K350",
+    "Descripción": "Kit Instalacion Salamandras Bosca",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JS296",
+    "Descripción": "Bidet Adaptable Para Inodoro Pro (Agua Fria/Caliente)",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JS295",
+    "Descripción": "Bidet Adaptable Para Inodoro Pro (Solo Fria)",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JS290",
+    "Descripción": "Bidet Adaptable Para Inodoro (Nuevo Doble Blister)",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JS270C",
+    "Descripción": "Bidet Manual Con Flexible - Cromo - Reestyling",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JET80",
+    "Descripción": "Bomba Autoaspirante Jet 80 - 3/4 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JET60",
+    "Descripción": "Bomba Autoaspirante Jet 60 - 1/2 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "JET100",
+    "Descripción": "Bomba Autoaspirante Jet 100 - 1 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Hydra J 107 A*",
+    "Descripción": "Hydra J 107 A*",
+    "Precio": 318897.64170000004,
+    "PVP": 667870.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "GRAMPAS",
+    "Descripción": "",
+    "Precio": 12045.429,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "G800C",
+    "Descripción": "Salamandra Bosca Gold Gris Charcoal 800",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "G800B",
+    "Descripción": "Salamandra Bosca Gold Burdeo 800",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "G380I",
+    "Descripción": "Salamandra Bosca Gold Gris Inoxidable 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "G380C",
+    "Descripción": "Salamandra Bosca Gold Gris Charcoal 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "G380B",
+    "Descripción": "Salamandra Bosca Gold Burdeo 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "G 50",
+    "Descripción": "G 50",
+    "Precio": 106143.9225,
+    "PVP": 213531.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "FU - L3",
+    "Descripción": "FAROL",
+    "Precio": 6290.124983999999,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA HF 40 GN",
+    "Descripción": "Caldera para calefacción - 40 kw",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA H F 32",
+    "Descripción": "Caldera para calefacción - 30586 kcal/h ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA H F 24",
+    "Descripción": "Caldera para calefacción - 23147 kcal/h ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA F 40 GN",
+    "Descripción": "Caldera doble servicio Monotermica - 39000 kcal/h ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA F 32 GN",
+    "Descripción": "Caldera doble servicio Monotermica - 32100 kcal/h ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "FORTUNA F 24 GN",
+    "Descripción": "Caldera doble servicio Monotermica - 24300 kcal/h ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "F60",
+    "Descripción": "Fogonero/Brasero Bosca Fire Pit 60",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "F500",
+    "Descripción": "Fogonero/Brasero Bosca Fire Pit 500",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "F380",
+    "Descripción": "Salamandra Bosca Firepoint 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "F250",
+    "Descripción": "Fogonero/Brasero Bosca Fire Pit 250",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "EXT 3206",
+    "Descripción": "Extractor para Baño DS 320 - 6''/150mm ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "EXT 3204",
+    "Descripción": "Extractor para Baño DS 320 - 4''/100mm ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "EXT 3106",
+    "Descripción": "Extractor para Baño 310 - 6''/150mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "EXT 3104",
+    "Descripción": "Extractor para Baño 310 - 4''/100mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "KIRA",
+    "Codigo": "EMB",
+    "Descripción": "EMBUDO",
+    "Precio": 500.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "EF360",
+    "Descripción": "Salamandra Bosca Eco Flame 360 - ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "EE 37/18",
+    "Descripción": "EE 37/18",
+    "Precio": 30248.064000000002,
+    "PVP": 64750.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "EE 37",
+    "Descripción": "EE 37",
+    "Precio": 26734.8774,
+    "PVP": 58097.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "EE 28",
+    "Descripción": "EE 28",
+    "Precio": 23855.234699999997,
+    "PVP": 54000.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "E380",
+    "Descripción": "Salamandra Bosca Eco 380 ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "E360",
+    "Descripción": "Salamandra Bosca Eco 360 ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "E350",
+    "Descripción": "Salamandra Bosca Eco 350",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 60 T CR",
+    "Descripción": "E 60 T CR",
+    "Precio": 104152.14150000001,
+    "PVP": 209724.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 60 T",
+    "Descripción": "E 60 T",
+    "Precio": 97114.5153,
+    "PVP": 193588.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 60 CR",
+    "Descripción": "E 60 CR",
+    "Precio": 116429.16450000001,
+    "PVP": 258434.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 60 A*",
+    "Descripción": "E 60 A*",
+    "Precio": 142886.0928,
+    "PVP": 307599.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 60",
+    "Descripción": "E 60",
+    "Precio": 106139.4213,
+    "PVP": 225693.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 54",
+    "Descripción": "E 54",
+    "Precio": 100292.3625,
+    "PVP": 202347.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 50/18 CR",
+    "Descripción": "E 50/18 CR",
+    "Precio": 76617.1758,
+    "PVP": 154413.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 50/18",
+    "Descripción": "E 50/18",
+    "Precio": 70663.2135,
+    "PVP": 143034.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 44/18 CR",
+    "Descripción": "E 44/18 CR",
+    "Precio": 72934.0689,
+    "PVP": 148291.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 44/18",
+    "Descripción": "E 44/18",
+    "Precio": 61721.579699999995,
+    "PVP": 125943.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 44 CR",
+    "Descripción": "E 44 CR",
+    "Precio": 61999.52880000001,
+    "PVP": 128647.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 44",
+    "Descripción": "E 44",
+    "Precio": 52481.741400000006,
+    "PVP": 108286.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 37/18 CR",
+    "Descripción": "E 37/18 CR",
+    "Precio": 61187.0622,
+    "PVP": 125502.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 37/18",
+    "Descripción": "E 37/18",
+    "Precio": 51709.785599999996,
+    "PVP": 106309.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 37 CR",
+    "Descripción": "E 37 CR",
+    "Precio": 51778.428900000006,
+    "PVP": 108845.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 37",
+    "Descripción": "E 37",
+    "Precio": 45692.8065,
+    "PVP": 94807.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 28 CR",
+    "Descripción": "E 28 CR",
+    "Precio": 46789.974,
+    "PVP": 100056.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "E 28",
+    "Descripción": "E 28",
+    "Precio": 40159.7064,
+    "PVP": 84233.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "DU2214 ",
+    "Descripción": "Codo 90º P/ Duchador Mano Piazza Soporte Enganche Flor Ducha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "DOMINA F 24 N",
+    "Descripción": "Caldera doble servicio Bitermica - DOMINA F 24kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "DOMINA F 20 N",
+    "Descripción": "Caldera doble servicio Bitermica - DOMINA F 20kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "KIRA",
+    "Codigo": "DC300",
+    "Descripción": "DOSIFICADOR DC300 KIRA",
+    "Precio": 3146.0,
+    "PVP": 30000.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "DANNA*",
+    "Descripción": "DANNA*",
+    "Precio": 61442.5053,
+    "PVP": 125411.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D5002",
+    "Descripción": "Set Barral de Lujo con Duchador Anticalcareo Piazza de 100 mm 3 funciones Linea Accesorios",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D5001",
+    "Descripción": "Set Barral con Duchador Piazza Anticalcareo Linea Accesorios",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4101",
+    "Descripción": "Flor Ducha Rectangular 30 Cm Pared Slim Piazza Anticalcárea",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4006",
+    "Descripción": "Flexible para Duchador de Mano 1,5 Mts Manguera Flor Ducha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4005",
+    "Descripción": "Soporte para duchador de mano",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4004",
+    "Descripción": "Soporte Para Duchador De Mano Piazza Enganche Flor Ducha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4003",
+    "Descripción": "Caño Vertical Ducha Techo Piazza 20 Cm Incluye Roseta 6 Cm D ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D4001",
+    "Descripción": "Flor Ducha 30 Cm Diámetro Pared Slim Piazza Anticalcárea",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2801",
+    "Descripción": "Flor Ducha Pared Rectangular 20 Cm Piazza Unique Anticalcár.",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2401",
+    "Descripción": "Flor Ducha Pared 15 Cm Diámetro Piazza Guilty Anticalcárea",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2005",
+    "Descripción": "Flor Ducha Piazza 20 Cm Anticalcarea Duchador Embutir Roseta",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2004",
+    "Descripción": "Flor Ducha Piazza 20 x 15 Cm Anticalcarea Duchador Embutir",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2003",
+    "Descripción": "Flor Ducha Piazza 10 Cm Anticalcarea 3 Func Duchador Embu",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2002",
+    "Descripción": "Flor Ducha Pared Piazza Anticalcarea Duchador Embutir Roseta",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D2001",
+    "Descripción": "Flor Ducha Pared Piazza Logos - Loft Anticalcárea 87 Mm Diam",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "D1",
+    "Descripción": "",
+    "Precio": 23098.779000000002,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D0203",
+    "Descripción": "Duchador Mano Piazza 10 cm Anticalcareo 3 Func Flor Ducha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D0202",
+    "Descripción": "Duchador De Mano Piazza Next Anticalcáreo 1,5 M Flor Ext",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D0104",
+    "Descripción": "Duchador De Mano Piazza Anticalcareo Flor Ducha Exterior",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D0103",
+    "Descripción": "Duchador De Mano Piazza Anticalcareo Flor Ducha Exterior",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "D0102",
+    "Descripción": "Duchador De Mano Piazza Dot Anticalcáreo 1,5 M Flor Exterior",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Curve SI77A",
+    "Descripción": "Curve SI77A",
+    "Precio": 137884.1343,
+    "PVP": 276193.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CPM200",
+    "Descripción": "Bomba Centrifuga Cpm 200 - 2 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CPM180",
+    "Descripción": "Bomba Centrifuga Cpm 180 - 1 1/2 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CPM158",
+    "Descripción": "Bomba Centrifuga Cpm 158 - 1 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CPM146",
+    "Descripción": "Bomba Centrifuga Cpm 146 - 3/4 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CPM130",
+    "Descripción": "Bomba Centrifuga Cpm 130 - 1/2 Hp",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "CORI-OBDI",
+    "Descripción": "Organizador Bacha ",
+    "Precio": 9594.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CH850",
+    "Descripción": "Chimenea A Leña Bosca 850",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CH650",
+    "Descripción": "Chimenea A Leña Bosca 650",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CH1100",
+    "Descripción": "Chimenea A Leña Bosca 1100 ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "Cesto alambre Inox Cuadrado 5001",
+    "Descripción": "Cesto alambre Inox Cuadrado 5001",
+    "Precio": 19365.687,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "CESTO",
+    "Descripción": "",
+    "Precio": 22577.147999999997,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "CESTILLO 9000",
+    "Descripción": "",
+    "Precio": 3632.904,
+    "PVP": ""
+  },
+  {
+    "MARCA": "STARKEN",
+    "Codigo": "CESTILLO",
+    "Descripción": "",
+    "Precio": 4814.469,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "CESI-12RA",
+    "Descripción": "ESPECIEROS",
+    "Precio": 17485.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CD90C",
+    "Descripción": "Cabina Ducha Rectangular 900 x 900 Con Receptáculo Descarga",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CD90A",
+    "Descripción": "Cabina Ducha Angular 900 x 900 Incluye Receptáculo Descarga",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "CC 37",
+    "Descripción": "CC 37",
+    "Precio": 59528.369999999995,
+    "PVP": 124437.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "CC 28/18",
+    "Descripción": "CC 28/18",
+    "Precio": 59574.507300000005,
+    "PVP": 124526.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "CC 28 B",
+    "Descripción": "CC 28 B",
+    "Precio": 49701.125100000005,
+    "PVP": 107719.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "CC 28",
+    "Descripción": "CC 28",
+    "Precio": 54566.922300000006,
+    "PVP": 112269.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CAP",
+    "Descripción": "Control Automatico De Presion Cap",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CAN",
+    "Descripción": "Control Automatico De Nivel Can",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "CAF",
+    "Descripción": "Control Automatico De Flujo Caf",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5016",
+    "Descripción": "Jabonera Rejilla Triángulo Ducha Piazza Cromo Baño Metálica",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5015",
+    "Descripción": "Jabonera Rejilla Rectángulo Ducha Piazza Cromo Baño 11 Cm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5014",
+    "Descripción": "Organizador Ducha Jabonera Pequeño 21 Cm Cromo Piazza Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5013",
+    "Descripción": "Organizador Ducha Con Jabonera + 2 Perchas Laterlaes Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5012",
+    "Descripción": "Porta Escobilla Inodoro Cerdas Plásticas Resistentes Ac Inox",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5011",
+    "Descripción": "Perchero Quintuple Baño Cromado Metálico Piazza Fácil Instal",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5010",
+    "Descripción": "Perchero Triple Baño Cromado Metálico Piazza Instala Fácil",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5009",
+    "Descripción": "Agarradera Seguridad Angular Con Jabonera Pared Baño Piazza",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5008",
+    "Descripción": "Agarradera Seguridad Angular Pared Baño Piazza Instala Fácil",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5007",
+    "Descripción": "Agarradera Seguridad Recta Pared Baño Piazza Instala Fácil",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5006",
+    "Descripción": "Tender Baño Retractil Pared Piazza Soga Extensible 2,20 Mts ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5005",
+    "Descripción": "Espejo Baño De Pie Circular Piazza Estándar + Aumento X2",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5004",
+    "Descripción": "Espejo Baño Extensible Circular Piazza Estándar + Aumento X2",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5003",
+    "Descripción": "Repisa Baño Con Toallero Barral Piazza Cromado Instala Fácil",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5002",
+    "Descripción": "Tacho Basura Acero Inoxidable Piazza Baño Cocina Cesto 8 Lit ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5001",
+    "Descripción": "Tacho Basura Acero Inoxidable Piazza Baño Cocina Cesto 5 Lit",
+    "Precio": 30799.968038400002,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "C5000",
+    "Descripción": "Tacho Basura Acero Inoxidable Piazza Baño Cocina Cesto 3 Lit ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C28/18 CR",
+    "Descripción": "C28/18 CR",
+    "Precio": 96322.30410000001,
+    "PVP": 197644.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C28 CR",
+    "Descripción": "C28 CR",
+    "Precio": 90757.69559999999,
+    "PVP": 185447.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 37/18 CR",
+    "Descripción": "C 37/18 CR",
+    "Precio": 109657.1091,
+    "PVP": 220477.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 37/18",
+    "Descripción": "C 37/18",
+    "Precio": 102931.191,
+    "PVP": 207390.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 37 CR",
+    "Descripción": "C 37 CR",
+    "Precio": 97195.53689999999,
+    "PVP": 198866.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 37",
+    "Descripción": "C 37",
+    "Precio": 90118.5252,
+    "PVP": 182902.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 28/18",
+    "Descripción": "C 28/18",
+    "Precio": 89057.3673,
+    "PVP": 180874.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "C 28",
+    "Descripción": "C 28",
+    "Precio": 81109.37340000001,
+    "PVP": 165165.0
+  },
+  {
+    "MARCA": "KIRA",
+    "Codigo": "BSPI-SA01",
+    "Descripción": "SOPAPA AMERICANA",
+    "Precio": 6838.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BI170",
+    "Descripción": "Bañera Isla Exenta 1700x800x580",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH185LD",
+    "Descripción": "Hidromasaje Doble Piazza Lujo 185x115 Cm 12 Jets 1,5 Hp Almo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH170SC",
+    "Descripción": "Bañera hidromasaje standard 1700mm con cajón",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH170S",
+    "Descripción": "Bañera Hidromasaje Piazza 170 Cm 6 Jets 0,33 Hp Fibra Vidrio",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH170LC",
+    "Descripción": "Bañera hidromasaje de lujo 1700mm con cajón",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH170L",
+    "Descripción": "Bañera Hidromasaje Piazza Lujo 170 Cm 8 Jets 0,5 Hp Almohada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH165LD",
+    "Descripción": "Hidromasaje Doble Piazza Lujo 165x115cm 10 Jets 1hp Almohada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH150SC",
+    "Descripción": "Bañera hidromasaje standard 1500mm con cajón",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH150S",
+    "Descripción": "Bañera Hidromasaje Piazza 150 Cm 6 Jets 0,33 Hp Fibra Vidrio",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH150LE",
+    "Descripción": "Bañera Hidromasaje Esquina Piazza 150 Cm 8 Jets 1hp Almohada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH150LC",
+    "Descripción": "Bañera hidromasaje de lujo 1500mm con cajón",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BH150L",
+    "Descripción": "Bañera Hidromasaje Piazza Lujo 150 Cm 8 Jets 0,5 Hp Almohada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": "BDSI-CLAZ",
+    "Descripción": "SIFÓN CLASICO LATON",
+    "Precio": 17303.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "BALY 340 L*",
+    "Descripción": "BALY 340 L*",
+    "Precio": 47033.038799999995,
+    "PVP": 103664.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BA170",
+    "Descripción": "Bañera Acrílico 170 Cm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BA150",
+    "Descripción": "Bañera Acrílico 150 Cm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "BA120",
+    "Descripción": "Bañera Acrílico 120 Cm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B120",
+    "Descripción": "Bacha Bajo Mesada B120 Redonda Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B108",
+    "Descripción": "Bacha Bajo Mesada B108 Cuadrada Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0904",
+    "Descripción": "Bidet 1 agujero Padova ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0903",
+    "Descripción": "Bidet 3 agujeros Padova ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0900",
+    "Descripción": "Inodoro con asiento + deposito Padova ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0704",
+    "Descripción": "Bidet 1 agujero Abruzzo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0703",
+    "Descripción": "Bidet 3 agujeros Abruzzo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0700",
+    "Descripción": "Inodoro con Asiento + Deposito Abruzzo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0600",
+    "Descripción": "Mingitorio mural",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0590",
+    "Descripción": "Domani conjunto inodoro corto + deposito de colgar plástico",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0512",
+    "Descripción": "Domani Deposito de colgar plastico con valvula de descarga",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0511",
+    "Descripción": "Deposito de Colgar Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0505",
+    "Descripción": "Deposito de Apoyar Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0504",
+    "Descripción": "Bidet 1 Agujero Doani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0503",
+    "Descripción": "Bidet 3 Agujeros Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0502",
+    "Descripción": "Inodoro Largo sin Asiento Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0501",
+    "Descripción": "Inodoro Corto sin Asiento Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0410",
+    "Descripción": "Lavatorio 1 agujero para columna",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0409",
+    "Descripción": "Columna para lavatorio",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0406",
+    "Descripción": "Asiento para inodoro Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0405",
+    "Descripción": "Deposito Con Cisterna Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0404",
+    "Descripción": "Bidet 1 Agujero Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0403",
+    "Descripción": "Bidet 3 Agujeros Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0402",
+    "Descripción": "Inodoro Con Asiento Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0400",
+    "Descripción": "Inodoro Con Asiento y Depósito Garda",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0306",
+    "Descripción": "Asiento para inodoro positano",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0305",
+    "Descripción": "Deposito Con Cisterna Positano ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0304",
+    "Descripción": "Bidet 1 Agujero Positano ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0303",
+    "Descripción": "Bidet 3 Agujeros Positano ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0302",
+    "Descripción": "Inodoro Con Asiento Positano ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0206",
+    "Descripción": "Asiento inodoro taormina ¡discontinuo!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0205",
+    "Descripción": "Taormina deposito con valvula doble descarga ¡discontinuo!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0204",
+    "Descripción": "Taormina bidet 1 agujero taormina ¡discontinuo!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0203",
+    "Descripción": "Taormina bidet 3 agujeros taormina ¡discontinuo!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0202",
+    "Descripción": "Taormina inodoro largo con asiento taormina ¡discontinuo!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0106",
+    "Descripción": "Amalfi Asiento Para Inodoro Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0105",
+    "Descripción": "Deposito Con Cisterna Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0104",
+    "Descripción": "Bidet 1 Agujero Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0103",
+    "Descripción": "Bidet 3 Agujeros Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0102",
+    "Descripción": "Inodoro Con Asiento Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0100",
+    "Descripción": "Inodoro Con Asiento y Depósito Amalfi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "B0007",
+    "Descripción": "Valvula Deposito Doble Descarga",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "Axa D78 A*",
+    "Descripción": "Axa D78 A*",
+    "Precio": 255274.305,
+    "PVP": 514848.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ARENA DGT HF 32 N",
+    "Descripción": "Caldera para calefacción - ARENA DGT HF 32kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ARENA DGT HF 24 N",
+    "Descripción": "Caldera para calefacción - ARENA DGT HF 24kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ARENA DGT F 32 N",
+    "Descripción": "Caldera doble servicio Monotermica - ARENA DGT 32kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ARENA DGT F 24 N",
+    "Descripción": "Caldera doble servicio Monotermica - ARENA DGT 24kw ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITAVTQ55",
+    "Descripción": "APITAVTQ55",
+    "Precio": 43876.57230000001,
+    "PVP": 91838.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITAQ37",
+    "Descripción": "APITAQ37",
+    "Precio": 24288.4752,
+    "PVP": 51014.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITAO37",
+    "Descripción": "APITAO37",
+    "Precio": 27058.9638,
+    "PVP": 66878.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITALU",
+    "Descripción": "APITALU",
+    "Precio": 31386.8676,
+    "PVP": 70652.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITALM",
+    "Descripción": "APITALM",
+    "Precio": 18368.2719,
+    "PVP": 43087.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITALC",
+    "Descripción": "APITALC",
+    "Precio": 23382.6087,
+    "PVP": 49746.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITACVVT",
+    "Descripción": "APITACVVT",
+    "Precio": 75990.3837,
+    "PVP": 155900.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APITA37",
+    "Descripción": "APITA37",
+    "Precio": 28665.8922,
+    "PVP": 71151.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APISOCESUCR",
+    "Descripción": "APISOCESUCR",
+    "Precio": 8535.4005,
+    "PVP": 16771.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APISOCESU",
+    "Descripción": "APISOCESU",
+    "Precio": 6712.414500000001,
+    "PVP": 12830.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APISOAM",
+    "Descripción": "APISOAM",
+    "Precio": 5995.5984,
+    "PVP": 11459.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIRERX3246    ",
+    "Descripción": "APIRERX3246    ",
+    "Precio": 23480.5098,
+    "PVP": 53615.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIRERX3242    ",
+    "Descripción": "APIRERX3242    ",
+    "Precio": 22015.3692,
+    "PVP": 50734.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIESACQ71",
+    "Descripción": "APIESACQ71",
+    "Precio": 54886.5075,
+    "PVP": 105517.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIESACQ37",
+    "Descripción": "APIESACQ37",
+    "Precio": 48458.793900000004,
+    "PVP": 100037.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIESACE4",
+    "Descripción": "APIESACE4",
+    "Precio": 32715.846900000004,
+    "PVP": 68253.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIESACE3",
+    "Descripción": "APIESACE3",
+    "Precio": 33081.5694,
+    "PVP": 68993.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIESACCV",
+    "Descripción": "APIESACCV",
+    "Precio": 46947.515999999996,
+    "PVP": 77698.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIDOCU",
+    "Descripción": "APIDOCU",
+    "Precio": 30775.8297,
+    "PVP": 61610.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIDOB",
+    "Descripción": "APIDOB",
+    "Precio": 21840.947700000004,
+    "PVP": 47928.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIDO",
+    "Descripción": "APIDO",
+    "Precio": 18537.0669,
+    "PVP": 39749.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APICUCE",
+    "Descripción": "APICUCE",
+    "Precio": 3103.5774,
+    "PVP": 5821.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APICASELU",
+    "Descripción": "APICASELU",
+    "Precio": 48937.04640000001,
+    "PVP": 101008.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APICASELM",
+    "Descripción": "APICASELM",
+    "Precio": 42930.195,
+    "PVP": 89529.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APICAPIABS",
+    "Descripción": "APICAPIABS",
+    "Precio": 9782.2329,
+    "PVP": 14812.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APICAACE37",
+    "Descripción": "APICAACE37",
+    "Precio": 47946.782400000004,
+    "PVP": 96548.0
+  },
+  {
+    "MARCA": "JOHNSON",
+    "Codigo": "APIBAREE44",
+    "Descripción": "APIBAREE44",
+    "Precio": 7304.3223,
+    "PVP": 82213.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ALERCER",
+    "Descripción": "Parrilla Carbón Alerce Bosca Roja ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "ALERCEN",
+    "Descripción": "Parrilla Carbón Alerce Bosca Negra ¡Discontinua!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A524NE",
+    "Descripción": "Bacha Sanitaria De Apoyar Negra 360x125mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A524B",
+    "Descripción": "Bacha Apoyo Redonda A524B Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A426NE",
+    "Descripción": "Bacha Sanitaria De Apoyar Negra 455x320x140mm",
+    "Precio": 129944.51205120003,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A426",
+    "Descripción": "Bacha Apoyo Rectangular A426 Piazza Lavatorio Pileta Baño",
+    "Precio": 73485.71386675202,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A423NE",
+    "Descripción": "Bacha Sanitaria De Apoyar Negra 385x385x140mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A423",
+    "Descripción": "Bacha Apoyo Cuadrada A423 Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A380",
+    "Descripción": "Salamandra Bosca Aresta 380",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A201B/3",
+    "Descripción": "Bacha Apoyo Rectangular 3 Agujeros Piazza Desagüe Oculto ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A201B",
+    "Descripción": "Bacha Apoyo Rectangular 1 Agujero Piazza Desagüe Oculto ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A173C",
+    "Descripción": "Bacha De Porcelana De Empotrar (con 1 Agujero) 410x410x150 mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A171",
+    "Descripción": "Bacha Apoyo Ovalada A171 Piazza Lavatorio Baño Pileta",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A146",
+    "Descripción": "Bacha Apoyo Rectan. A146 1 Agujero Piazza Lavatorio Pileta",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A117/3",
+    "Descripción": "Bacha Apoyo Rectangular A1173 3 Agujeros Piazza Lavatorio ",
+    "Precio": 99289.56837888001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A117",
+    "Descripción": "Bacha Apoyo Rectangular A117 1 Agujero Piazza Lavatorio ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A082",
+    "Descripción": "Bacha Apoyo Ovalada A082 Piazza Lavatorio Pileta Baño ",
+    "Precio": 47109.36503623681,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A037",
+    "Descripción": "Bacha Apoyo Cuadrada A037 Piazza Lavatorio Pileta Baño ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A029",
+    "Descripción": "Bacha Apoyo Redonda A029 1 Agujero Piazza Lavatorio Pileta ",
+    "Precio": 58779.87570892801,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A013",
+    "Descripción": "Bacha Apoyo Redonda A013  Piazza Lavatorio Pileta Baño",
+    "Precio": 45084.20356915201,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "A001",
+    "Descripción": "Bacha Apoyo Redonda A001 Piazza Lavatorio Pileta Baño",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "905211",
+    "Descripción": "Viva Cromo Kit Lavatorio - Bidet - Ducha",
+    "Precio": 108409.92870399998,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8802-Cesto para Pileta 802E",
+    "Descripción": "8802-Cesto para Pileta 802E",
+    "Precio": 38463.479999999996,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8802Cesto para Pileta 802E",
+    "Descripción": "8802Cesto para Pileta 802E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8802- cesto alambre 802",
+    "Descripción": "8802- cesto alambre 802",
+    "Precio": 38463.479999999996,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8800Cesto para Pileta 800E",
+    "Descripción": "8800Cesto para Pileta 800E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8800- Cesto para Pileta 800E",
+    "Descripción": "8800- Cesto para Pileta 800E",
+    "Precio": 36540.306,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8786Cesto para Pileta 786",
+    "Descripción": "8786Cesto para Pileta 786",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8783Cesto para Pileta 783E",
+    "Descripción": "8783Cesto para Pileta 783E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8780Cesto para Pileta 780E",
+    "Descripción": "8780Cesto para Pileta 780E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8718Cesto para Pileta 718E",
+    "Descripción": "8718Cesto para Pileta 718E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8715Cesto para Pileta 715E",
+    "Descripción": "8715Cesto para Pileta 715E",
+    "Precio": 15828.615,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "802E ",
+    "Descripción": "802E ",
+    "Precio": 141805.22400000002,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8022- tabla de Madera 802",
+    "Descripción": "8022- tabla de Madera 802",
+    "Precio": 19599.822,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8021- tablas de madera 801",
+    "Descripción": "8021- tablas de madera 801",
+    "Precio": 18619.8309,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8020- tablas de madera 800",
+    "Descripción": "8020- tablas de madera 800",
+    "Precio": 19599.822,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "801E AMICA 1",
+    "Descripción": "801E AMICA 1",
+    "Precio": 114260.058,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8011 - bandeja para 801",
+    "Descripción": "8011 - bandeja para 801",
+    "Precio": 19365.687,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "8010- cesto",
+    "Descripción": "",
+    "Precio": 0.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "800E AMPIA ( 2 traforos sin dispenser)",
+    "Descripción": "800E AMPIA ( 2 traforos sin dispenser)",
+    "Precio": 160845.3,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73229S",
+    "Descripción": "Sensus set 6 piezas - acabado acero inoxidable",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73229NE",
+    "Descripción": "Sensus set 6 piezas - acabado negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73229",
+    "Descripción": "Sensus set 6 piezas - cromo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73228S",
+    "Descripción": "Sensus set 4 piezas - acabado acero inoxidable",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73228NE",
+    "Descripción": "Sensus set 4 piezas - acabado negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73228",
+    "Descripción": "Sensus set 4 piezas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73226",
+    "Descripción": "Sensus porta vaso",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73224",
+    "Descripción": "Sensus jabonera vidrio",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73223",
+    "Descripción": "Sensus porta rollo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73222",
+    "Descripción": "Sensus toallero barral",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73221",
+    "Descripción": "Sensus toallero aro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73220",
+    "Descripción": "Sensus percha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73028NK",
+    "Descripción": "Cube set 4 piezas - Nickel",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73028NE",
+    "Descripción": "Cube set 4 piezas - Negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "73028",
+    "Descripción": "Cube set 4 piezas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72826",
+    "Descripción": "Porta Vaso Baño Piazza Unique Cromado Set Cepillo de Dientes",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72824",
+    "Descripción": "Jabonera Vidrio Baño Piazza Unique Cromado Set Porta Jabon",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72823",
+    "Descripción": "Porta Rollo Papel Higiénico Baño Piazza Unique Cromado",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72822",
+    "Descripción": "Toallero Barral Baño Piazza Unique Cromado Perchero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72821",
+    "Descripción": "Toallero Aro Baño Piazza Unique Cromado Perchero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72820",
+    "Descripción": "Perchero Baño Piazza Unique Cromado Gancho Pared Toalla",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72426",
+    "Descripción": "Porta Vaso Baño Piazza Guilty Cromado Set Cepillo de Dientes",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72424",
+    "Descripción": "Jabonera Vidrio Baño Piazza Guilty Cromado Set Porta Jabon",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72423",
+    "Descripción": "Porta Rollo Papel Higiénico Baño Piazza Guilty Cromado",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72422",
+    "Descripción": "Toallero Barral Baño Piazza Guilty Cromado Perchero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72421",
+    "Descripción": "Toallero Aro Baño Piazza Guilty Cromado Perchero",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "72420",
+    "Descripción": "Perchero Baño Piazza Guilty Cromado Gancho Pared Toalla",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71029",
+    "Descripción": "Set Accesorios 6 Piezas Piazza Domani Juego Kit Baño ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71027",
+    "Descripción": "Set Accesorios 3 Piezas Piazza Domani Juego Kit Baño ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71024",
+    "Descripción": "Jabonera Vidrio Baño Piazza Domani Cromado Set Porta Jabon ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71023",
+    "Descripción": "Porta Rollo Papel Higiénico Baño Piazza Domani Cromado ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71022",
+    "Descripción": "Toallero Barral Baño Piazza Domani Cromado Perchero ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71021",
+    "Descripción": "Toallero Aro Baño Piazza Domani Cromado Perchero ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "71020",
+    "Descripción": "Perchero Baño Piazza Domani Cromado Gancho Pared Toalla ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70911",
+    "Descripción": "Calyx Ducha De Embutir C/Transf Bu1703 Calyx",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "705811",
+    "Descripción": "Viva Cruz Ducha De Embutir Con Transferencia Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "705311",
+    "Descripción": "Shift Ducha Embutir Con Transferencia Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "705211",
+    "Descripción": "Viva Cromo Ducha De Embutir Con Transferencia Viva Cromo",
+    "Precio": 41971.68949248,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "705111",
+    "Descripción": "Zen Bañera C/ Transf Zen",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "703911",
+    "Descripción": "Viva Plus Ducha De Embutir Con Transferencia Viva Plus",
+    "Precio": 45983.476746240005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "703011",
+    "Descripción": "Kiss Bañera Embutir Kiss",
+    "Precio": 55213.72876800001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70129",
+    "Descripción": "Set Accesorios 6 Piezas Piazza Dot Juego Kit Baño ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70126",
+    "Descripción": "Porta Vaso Baño Piazza Dot Cromado Set Cepillo de Dientes ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70124",
+    "Descripción": "Jabonera Vidrio Baño Piazza Dot Cromado Set Porta Jabon ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70123",
+    "Descripción": "Porta Rollo Papel Higiénico Baño Piazza Dot Cromado ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70122",
+    "Descripción": "Toallero Barral Baño Piazza Dot Cromado Perchero ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70121",
+    "Descripción": "Toallero Aro Baño Piazza Dot Cromado Perchero ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "70120",
+    "Descripción": "Perchero Baño Percha Piazza Dot Cromado Gancho Pared Toalla ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000602LRN",
+    "Descripción": "SIFÓN  2 Vías - NEGRO Roscable 1 1/2\" - Descarga 40/50mm",
+    "Precio": 4242.26,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000602LN",
+    "Descripción": "SIFÓN 2 Vías - NEGRO Ajustable 50 mm. - Descarga 40/50mm",
+    "Precio": 4242.26,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000601LN",
+    "Descripción": "SIFÓN 1 Vía  NEGRO- Roscable - 1 1/2\" - Descarga 40/50mm",
+    "Precio": 2562.7799999999997,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000502LR",
+    "Descripción": "Sifón con vaso - extensible 11/2\" 2 vías - 40/50 mm ",
+    "Precio": 4979.15,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000502L",
+    "Descripción": "Sifón con vaso - extensible 50 mm 2 vías - 40/50 mm",
+    "Precio": 4979.15,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000501LR",
+    "Descripción": "SIFÓN  Sifón BLANCO   con vaso + Flexible Extensible 1 1/2\" - Descarga 40/50 mm",
+    "Precio": 3418.25,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "65000501L",
+    "Descripción": "SIFÓN  Sifón BLANCO DUAL  con vaso + Flexible Extensible 50 mm - Descarga 40/50 mm",
+    "Precio": 3418.25,
+    "PVP": ""
+  },
+  {
+    "MARCA": "DUKE",
+    "Codigo": "64000405AB",
+    "Descripción": "Flexible BLANCO extensible enchufe enchufe 40/50",
+    "Precio": 847.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "60911",
+    "Descripción": "Calyx Ducha De Embutir S/Transf Bu1704 Calyx",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "605311",
+    "Descripción": "Shift Ducha Embutir Sin Transferencia Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "605211",
+    "Descripción": "Viva cromo bañera sin transferencia",
+    "Precio": 38915.900153856004,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "603911",
+    "Descripción": "Viva plus bañera sin transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "5819",
+    "Descripción": "Unagua Cocina Pared Un Agua  ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "5817",
+    "Descripción": "Unagua Lavatorio Un Agua  ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "5808",
+    "Descripción": "Unagua Cocina Mesada Un Agua  ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "5807",
+    "Descripción": "Unagua Un Agua ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54007",
+    "Descripción": "PICO PARED",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54006",
+    "Descripción": "Flor Ducha SPA Piazza Rectangular 40 Cm Techo Anticalcárea",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54005",
+    "Descripción": "Flor Ducha SPA Piazza Con Lluvia + Cascada Anticalcárea",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54004",
+    "Descripción": "Jets Ducha Direccionables Piazza Terme Metálicos X 2 Spa",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54001",
+    "Descripción": "Ducha antigua metalica 200mm",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "54000",
+    "Descripción": "Válvula Termostática Piazza Terme 3 Func Mezcladora Ducha",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50066111",
+    "Descripción": "Nova set accesorios 6 piezas cromo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50065211",
+    "Descripción": "Set Accesorios Juego Baño Grifería Hydros Viva Kit 6 Piezas ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50063111",
+    "Descripción": "KISS PLUS SET ACCESORIOS 6 PIEZAS CROMO",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50063011",
+    "Descripción": "Set Accesorios Juego Baño Grifería Hydros Kiss Kit 6 Piezas ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50055011",
+    "Descripción": "Set Accesorios Juego Baño Grifería Hydros Zen Kit 5 Piezas ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50046111",
+    "Descripción": "Nova set accesorios 4 piezas cromo",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "50043111",
+    "Descripción": "KISS PLUS SET ACCESORIOS 4 PIEZAS CROMO",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "452000",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 2000W CON5000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "451500",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 1500W CON5000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "451000",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 1000W CON5000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "450500",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 500W CON5000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "442000",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 2000W CON4000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "441500",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 1500W CON4000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "441000",
+    "Descripción": "Calefactor Eléctrico c/ resis. Aluminio 1000W CON4000 ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "43036",
+    "Descripción": "Válvula Descarga Inodoro Tapa Redonda Temporizado Piazzamatic",
+    "Precio": 82080.81639014401,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "43031",
+    "Descripción": "Descarga Mingitorio Temporizado Piazzamatic",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "43010",
+    "Descripción": "Lavatorio Mesada a 45º Temporizado Piazzamatic",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "43004",
+    "Descripción": "Lavatorio Pared Temporizado Piazzamatic",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "43001",
+    "Descripción": "Lavatorio Mesada Temporizado Piazzamatic",
+    "Precio": 43778.009088000006,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "40911",
+    "Descripción": "Calyx Bidet Bu1701 Calyx",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "405811",
+    "Descripción": "Viva Cruz Bidet Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "405411",
+    "Descripción": "Link Bidet Sin Transferencia Link",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "405311",
+    "Descripción": "Shift Bidet Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "405211",
+    "Descripción": "Viva Cromo Bidet Viva Cromo",
+    "Precio": 36779.763466188924,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "405111",
+    "Descripción": "Zen Bidet Zen",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "403911",
+    "Descripción": "Viva Plus Bidet Viva Plus",
+    "Precio": 46385.31228672001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "403011",
+    "Descripción": "Kiss Bidet Kiss",
+    "Precio": 44073.891840000004,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "345811",
+    "Descripción": "Viva Cruz Lavatorio Pico Cañio Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "345211",
+    "Descripción": "Viva Cromo Lavatorio Viva Cromo",
+    "Precio": 30402.629283840008,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "343911",
+    "Descripción": "Viva Plus Lavatorio Viva Plus",
+    "Precio": 34505.73502464,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "32911",
+    "Descripción": "Calyx Lavatorio De Pared Calyx",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "325111",
+    "Descripción": "Zen lavatorio de pared",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31911",
+    "Descripción": "Calyx Lavatorio Alto Bu1706 Calyx",
+    "Precio": 56693.960294400014,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "315811",
+    "Descripción": "Viva Cruz Lavatorio Pico Fundido Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "315211",
+    "Descripción": "Viva Cromo Lavatorio Pico Fundido Viva Cromo",
+    "Precio": 35938.046790581364,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "315111",
+    "Descripción": "Zen Lavatorio Cromo Zen",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31411",
+    "Descripción": "Cocina Pared Dos Llaves Village",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31410",
+    "Descripción": "Cocina Mesada Dos Llaves Village",
+    "Precio": 39074.893271040004,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31408",
+    "Descripción": "Bañera Exterior Con Transferencia Village",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31406",
+    "Descripción": "Bañera De Embutir Con Transferencia Village",
+    "Precio": 53876.71787520001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31404",
+    "Descripción": "Bidet Con Transferencia Village",
+    "Precio": 52808.90452992001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31401",
+    "Descripción": "Lavatorio Mesada Pico De Caño Village",
+    "Precio": 39955.263406080005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31400",
+    "Descripción": "Lavatorio Mesada Pico Fundido Village",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "313911",
+    "Descripción": "Viva Plus Lavatorio Pico Fundido",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "313011",
+    "Descripción": "Kiss Lavatorio Kiss",
+    "Precio": 38175.937536000005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31211",
+    "Descripción": "Cocina Pared Dos Llaves Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31210",
+    "Descripción": "Cocina Mesada Dos Llaves Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31208",
+    "Descripción": "Bañera Exterior Con Transferencia Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31206",
+    "Descripción": "Bañera De Embutir Con Transferencia Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31204",
+    "Descripción": "Bidet Con Transferencia Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31201",
+    "Descripción": "Lavatorio Mesada Pico De Caño Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31200",
+    "Descripción": "Lavatorio Mesada Pico Fundido Optima",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31011",
+    "Descripción": "Cocina Pared Dos Llaves Domani",
+    "Precio": 42260.279255040005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31010",
+    "Descripción": "Cocina Mesada Dos Llaves Domani",
+    "Precio": 37184.68942848,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31008",
+    "Descripción": "Bañera Exterior Con Transferencia Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31006",
+    "Descripción": "Bañera De Embutir Con Transferencia Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31004",
+    "Descripción": "Bidet Con Transferencia Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "31001",
+    "Descripción": "Lavatorio Mesada Pico De Caño Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "30911",
+    "Descripción": "Calyx Lavatorio Bu1700 Calyx",
+    "Precio": 46443.31051008,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "306E",
+    "Descripción": "",
+    "Precio": 135632.772,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "305E",
+    "Descripción": "",
+    "Precio": 128824.34400000001,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "305411",
+    "Descripción": "Link Lavatorio Link",
+    "Precio": 31020.481536000003,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "305311",
+    "Descripción": "Shift Lavatorio Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "2802- bandeja 802",
+    "Descripción": "",
+    "Precio": 18397.40265,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "2801- bandeja 801",
+    "Descripción": "",
+    "Precio": 18397.40265,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "2800- bandeja 2800",
+    "Descripción": "2800- bandeja 2800",
+    "Precio": 19365.687,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "2609",
+    "Descripción": "Horno eléctrico - 60 lts 9 funciones",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "2585",
+    "Descripción": "Horno eléctrico - 58 lts 5 funciones",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "255811",
+    "Descripción": "Viva Cruz Cocina Pared Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "255411",
+    "Descripción": "Link Cocina Pared Link",
+    "Precio": 39442.513093632006,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "255311",
+    "Descripción": "Shift Cocina De Pared Pico Alto Fundido Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "255211",
+    "Descripción": "Viva Cromo Kitchen In Wall Viva Cromo",
+    "Precio": 40885.19321848677,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "253911",
+    "Descripción": "Viva Plus Kitchen In Wall Viva Plus",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22906",
+    "Descripción": "Ducha Embutir Con Transferencia Unique Lever",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22904",
+    "Descripción": "Bidet Con Transferencia Unique Lever",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22903",
+    "Descripción": "Lavatorio De Pared Unique Lever",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22901",
+    "Descripción": "Lavatorio Mesada Pico De Caño Unique Lever",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22806",
+    "Descripción": "Ducha Embutir Con Transferencia Unique Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22804",
+    "Descripción": "Bidet Con Transferencia Unique Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22803",
+    "Descripción": "Lavatorio De Pared Unique Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22801",
+    "Descripción": "Lavatorio Mesada Pico De Caño Unique Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22706",
+    "Descripción": "Vectra Ducha de embutir con transferencia",
+    "Precio": 82466.11372032,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22704",
+    "Descripción": "Vectra Bidet con transferencia",
+    "Precio": 60925.87911168001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22703",
+    "Descripción": "Vectra Lavatorio de Pared",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22701",
+    "Descripción": "Vectra Lavatorio mesada pico de caño",
+    "Precio": 47291.0592,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22606ST",
+    "Descripción": "Lounge Ducha De Embutir Con Transferencia Acabado Steel Lounge Steel",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22606",
+    "Descripción": "Lounge Ducha De Embutir Lounge",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22604ST",
+    "Descripción": "Lounge Bidet Con Transferencia Acabado Steel Lounge Steel",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22604",
+    "Descripción": "Lounge Bidet Con Transferencia Lounge",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22603ST",
+    "Descripción": "Lounge Lavatorio De Pared Acabado Steel Lounge Steel",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22603",
+    "Descripción": "Lounge Lavatorio Pared Lounge",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22601ST",
+    "Descripción": "Lounge Lavatorio Mesada Acabado Steel Lounge Steel",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22601",
+    "Descripción": "Lounge Lavatorio Mesada Lounge",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22506",
+    "Descripción": "Ducha Embutir Con Transferencia Guilty Lever",
+    "Precio": 146102.62453248,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22504",
+    "Descripción": "Bidet Con Transferencia Guilty Lever",
+    "Precio": 90167.11283712002,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22503",
+    "Descripción": "Lavatorio De Pared Guilty Lever",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22501",
+    "Descripción": "Lavatorio Mesada Pico De Caño Guilty Lever",
+    "Precio": 90711.13193472,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22406",
+    "Descripción": "Ducha Embutir Con Transferencia Guilty Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22404",
+    "Descripción": "Bidet Con Transferencia Guilty Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22403",
+    "Descripción": "Lavatorio De Pared Guilty Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22401",
+    "Descripción": "Lavatorio Mesada Pico De Caño Guilty Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22306",
+    "Descripción": "Ducha De Embutir Con Transferencia Logos",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22304",
+    "Descripción": "Bidet Con Transferencia Logos",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "22301",
+    "Descripción": "Lavatorio Mesada Pico De Caño Logos",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21406",
+    "Descripción": "Mind Ducha De Embutir Con Transf Mind",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21404",
+    "Descripción": "Mind Bidet Mind",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21403",
+    "Descripción": "Mind Lavatorio De Pared Mind",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21401",
+    "Descripción": "Mind Lavatorio Mind",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21306",
+    "Descripción": "Icon Bañera Con Transferencia Cromo Icon",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21304",
+    "Descripción": "Icon Bidet Cromo Icon",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21301",
+    "Descripción": "Icon Lavatorio Cromo Icon",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21206NE",
+    "Descripción": "Level ducha de embutir c/ transferencia negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21206",
+    "Descripción": "Level Bañera Con Transferencia Level",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21204NE",
+    "Descripción": "Level bidet negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21204",
+    "Descripción": "Bidet Level Level",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21203NE",
+    "Descripción": "Level lavatorio de pared negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21203",
+    "Descripción": "Lavatorio Pared Level",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21201NE",
+    "Descripción": "Level lavatorio negro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21201",
+    "Descripción": "Level Lavatorio Level",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21008",
+    "Descripción": "Novara Bañera Exterior Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21007",
+    "Descripción": "Novara Bañera S/T Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21006",
+    "Descripción": "Novara Bañera C/T Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21004",
+    "Descripción": "Novara Bidet Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21003",
+    "Descripción": "Novara Lavatorio De Pared Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "21001",
+    "Descripción": "Novara Lavatorio Cromo Novara",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "185311",
+    "Descripción": "Shift Cocina Pico Alto Fundido Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "175311",
+    "Descripción": "Shift Cocina Mesada Con Base Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "170911",
+    "Descripción": "Calyx Ducha Exterior Bu1702 Calyx",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1705411",
+    "Descripción": "Link Ducha Exterior Con Transferencia Link",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1705311",
+    "Descripción": "Shift Ducha Exterior Con Transferencia Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1705211",
+    "Descripción": "Viva Cromo Ducha De Exterior Con Transferencia Viva Cromo",
+    "Precio": 46934.89971167823,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1703911",
+    "Descripción": "Viva Plus Ducha Exterior Con Transferencia Viva Plus",
+    "Precio": 52692.90064896,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "16911",
+    "Descripción": "Calyx Cocina Pico Bar Bu1709 Calyx",
+    "Precio": 59845.632000000005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1605211",
+    "Descripción": "Viva cromo bañera exterior sin transferencia",
+    "Precio": 38915.97523968,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "1603911",
+    "Descripción": "Viva plus bañera exterior sin transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "15911",
+    "Descripción": "Calyx Cocina Mesada Bu1705 Calyx",
+    "Precio": 61367.79264000001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "145411",
+    "Descripción": "Link Cocina Pico Alto Link",
+    "Precio": 27539.398656000005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "145311",
+    "Descripción": "Shift Cocina Mesada Pico Bar Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "124",
+    "Descripción": "Anafe eléctrico - Vitrocerámico 4 hornallas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "122",
+    "Descripción": "Anafe eléctrico - Vitrocerámico 2 hornallas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "115311",
+    "Descripción": "Shift Cocina Con Duchador Extraible Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "114",
+    "Descripción": "Anafe eléctrico - Acero inoxidable 4 hornallas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "112",
+    "Descripción": "Anafe eléctrico - Acero inoxidable 2 hornallas",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10616",
+    "Descripción": "Domani cocina mesada alta",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10614",
+    "Descripción": "Cocina Pico Bar Monocomando Domani",
+    "Precio": 33062.682132480004,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10612",
+    "Descripción": "Cocina Mesada Monocomando Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10608",
+    "Descripción": "Ducha Exterior con Trasnferencia Monocomando Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10605",
+    "Descripción": "Bidet sin Transferencia Monocomando Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10604",
+    "Descripción": "Bidet con Transferencia Monocomando Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10600",
+    "Descripción": "Lavatorio Mesada Monocomando Domani",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "105E",
+    "Descripción": "",
+    "Precio": 48600.196919999995,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "105A",
+    "Descripción": "",
+    "Precio": 63109.728,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "105811",
+    "Descripción": "Viva Cruz Cocina Mesada Viva Cruz",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "105411",
+    "Descripción": "Link Cocina Mesada Link ( PICO BAJO)",
+    "Precio": 25324.459776000003,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "105311",
+    "Descripción": "Shift Cocina Mesada Shift ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "105211",
+    "Descripción": "Viva Cromo Kitchen Table Viva Cromo",
+    "Precio": 35790.92604567356,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10508",
+    "Descripción": "Ducha Exterior Con Transferencia Oggi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10507",
+    "Descripción": "Oggi ducha embutir sin transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10506",
+    "Descripción": "Ducha Embutir Con Transferencia Oggi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10504",
+    "Descripción": "Bidet Oggi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10503",
+    "Descripción": "Lavatorio Pared Oggi",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10502",
+    "Descripción": "Griferia Baño Lavatorio Alto Cromo Oggi Piazza 10502",
+    "Precio": 130273.25414400002,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10500",
+    "Descripción": "Lavatorio Mesada Oggi",
+    "Precio": 63618.50880000001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "104PA",
+    "Descripción": "",
+    "Precio": 63399.402,
+    "PVP": ""
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "104A",
+    "Descripción": "",
+    "Precio": 61383.663,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10408",
+    "Descripción": "Duch De Exterior C/T Arq ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10406NE",
+    "Descripción": "Ducha de embutir con transferencia Negro Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10406",
+    "Descripción": "Duch De Embutir C/T Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10404NE",
+    "Descripción": "Bidet con transferencia Negro Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10404",
+    "Descripción": "Bidet Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10402NE",
+    "Descripción": "Lavatorio alto Negro Arq",
+    "Precio": 204368.81879040005,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10402",
+    "Descripción": "Lavatorio Alto Arq",
+    "Precio": 159221.06240557964,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10400NE",
+    "Descripción": "Lavatorio mesada Negro Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10400",
+    "Descripción": "Lavatorio Mesada Arq",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "103P",
+    "Descripción": "",
+    "Precio": 31267.368,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "103911",
+    "Descripción": "Viva Plus Kitchen Table Viva Plus",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10330",
+    "Descripción": "Kitchen Pro Cocina Mesada Acero Inoxidable Kitchen Pro ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10321",
+    "Descripción": "Kitchen Pro Cocina Mesada Con Agua Filtrada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10320",
+    "Descripción": "Kitchen pro cocina mesada con circuito para agua filtrada",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10318",
+    "Descripción": "Kitchen Pro Cocina Mesada Con Rociador Extraible Kitchen Pro",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10317NE",
+    "Descripción": "Cocina Mesada con Rociador Extraible Negra",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10317",
+    "Descripción": "Kitchen Pro Cocina Mesada Flexible Con Pico Extraible",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10316",
+    "Descripción": "Kitchen Pro Cocina Mesada Rociador Extraible",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10314",
+    "Descripción": "Kitchen Pro Cocina Mesada Pico Alto",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10309",
+    "Descripción": "Gourmet Monocomando Cocina Vert.Ext Con Pico Gourmet",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10308",
+    "Descripción": "Gourmet Cocina Mesada Con Rociador Extraible",
+    "Precio": 232817.35065600002,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10307",
+    "Descripción": "Gourmet Monocomando Cocina Vert.Con Extension Gourmet ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10306",
+    "Descripción": "Gourmet Monocomando Cocina Vertical Gourmet ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10305",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10303SS",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet Acero Inox.",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10303NE",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet Negro Acero Inox.",
+    "Precio": 76828.40985600001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10303",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet Cromo Acero Inox.",
+    "Precio": 78994.747392,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10300SS",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet c/Rociador Acero Inox.",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10300NE",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet c/Rociador Negro Acero Inox.",
+    "Precio": 110396.977152,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10300",
+    "Descripción": "Gourmet Monocomando Cocina Gourmet c/Rociador Cromo Acero Inox.",
+    "Precio": 116914.94707200001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10214",
+    "Descripción": "Cocina Mesada Leva 90° Next ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10212",
+    "Descripción": "Cocina Mesada Alta Next ¡DISCONTINUO!",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10208",
+    "Descripción": "Ducha Exterior C/T Next",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10207",
+    "Descripción": "Next ducha de embutir s/transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10206",
+    "Descripción": "Ducha Embutir Con Transferencia Next",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10204",
+    "Descripción": "Bidet Con Transferencia Next",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10203",
+    "Descripción": "Lavatorio Pared Next",
+    "Precio": 146629.73445120003,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10202",
+    "Descripción": "Lavatorio Mesada Pico Alto Next",
+    "Precio": 142727.228275839,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10200",
+    "Descripción": "Lavatorio Mesada Next",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10112",
+    "Descripción": "Cocina Mesada Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10108",
+    "Descripción": "Ducha Exterior C/T Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10107",
+    "Descripción": "Ducha De Embutir Sin Transferencia Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10106",
+    "Descripción": "Ducha De Embutir Con Transferencia Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10104",
+    "Descripción": "Bidet Con Transferencia Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10102",
+    "Descripción": "Lavatorio Alto Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10100",
+    "Descripción": "Lavatorio Mesada Dot",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10017NE",
+    "Descripción": "Cocina Negra con flexible Negra",
+    "Precio": 86697.73516800001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10017",
+    "Descripción": "EMBLEM COCINA MESADA LEVA LATERAL",
+    "Precio": 56941.48331520001,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016RO",
+    "Descripción": "Cocina Con Flexible Rojo Emblem",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016NE",
+    "Descripción": "Cocina Con Flexible Negro Emblem",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016NA",
+    "Descripción": "Cocina Con Flexible Naranja Emblem",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016GR",
+    "Descripción": "Cocina con flexible Gris",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016BL",
+    "Descripción": "Cocina Con Flexible Blanco Emblem",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10016AZ",
+    "Descripción": "Cocina Con Flexible Azul Emblem",
+    "Precio": 74099.300352,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10015",
+    "Descripción": "Cocina Con Base Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10014",
+    "Descripción": "Cocina Mesada Pico Bar Emblem",
+    "Precio": 44614.375956480006,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10013",
+    "Descripción": "Cocina Pared Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10012",
+    "Descripción": "Cocina Mesada Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10008",
+    "Descripción": "Ducha Exterior C/T Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10007",
+    "Descripción": "Emblem ducha de embutir sin transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10006",
+    "Descripción": "Emblem ducha de embutir con transferencia",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10005",
+    "Descripción": "Bidet Sin Transferencia Emblem ¡DISCONTINUO! ",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10004",
+    "Descripción": "Bidet Con Transferencia Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": "10000",
+    "Descripción": "Lavatorio Mesada Emblem",
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "MI PILETA",
+    "Codigo": "1000- DISPENSER",
+    "Descripción": "",
+    "Precio": 31261.923,
+    "PVP": ""
+  },
+  {
+    "MARCA": "CEG",
+    "Codigo": " RTD-15X15",
+    "Descripción": "Rejilla y tapa para desagüe 15 cm × 15 cm",
+    "Precio": 7319.0,
+    "PVP": ""
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": 141511,
+    "Descripción": 7799100103539,
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": 65002,
+    "Descripción": 7799100216215,
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "PIAZZA",
+    "Codigo": 65000,
+    "Descripción": 7799100216208,
+    "Precio": 0.0,
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "TROVANI",
+    "Codigo": 5760,
+    "Descripción": "COCINA MONOCOMANDO FOSANO PICO CISNE CROMO LEVER MESADA - C. 40MM",
+    "Precio": 36386.2125,
+    "PVP": ""
+  },
+  {
+    "MARCA": "TROVANI",
+    "Codigo": 5750,
+    "Descripción": "COCINA MONOCOMANDO FOSANO PICO CISNE BLACK LEVER MESADA - C. 40MM",
+    "Precio": 36386.2125,
+    "PVP": ""
+  },
+  {
+    "MARCA": "TROVANI",
+    "Codigo": 5719,
+    "Descripción": "COCINA MONOCOMANDO GOURMET LEVER CON\nROCIADOR MESADA - C. 40MM",
+    "Precio": 41654.259801,
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": ""
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  },
+  {
+    "MARCA": "",
+    "Codigo": "",
+    "Descripción": "",
+    "Precio": "",
+    "PVP": 0.0
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Parámetro / nombre": "INGRESOS_BRUTOS",
+    "Valor / cuotas_texto": 0.0393,
+    "Cuotas": "",
+    "Comisión": "",
+    "Coef. Kira Dosificador": "",
+    "Coef. Resto Productos": "",
+    "Coef. Adicional": ""
+  },
+  {
+    "Parámetro / nombre": "COEF_PARA_DEDUCIR_IVA",
+    "Valor / cuotas_texto": 0.173553719,
+    "Cuotas": "",
+    "Comisión": "",
+    "Coef. Kira Dosificador": "",
+    "Coef. Resto Productos": "",
+    "Coef. Adicional": ""
+  },
+  {
+    "Parámetro / nombre": "COEF_PARA_DESCONTAR_IVA",
+    "Valor / cuotas_texto": 0.83,
+    "Cuotas": "",
+    "Comisión": "",
+    "Coef. Kira Dosificador": "",
+    "Coef. Resto Productos": "",
+    "Coef. Adicional": ""
+  }
+]
